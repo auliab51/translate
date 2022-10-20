@@ -15,3 +15,23 @@ Redeem voucher pop-up caption - Would you like to redeem […]x {{voucher name}}
 No, change store button - No, Change Store - 店舗を変更
 Yes, Redeem button - Yes, Redeem - 引換
 Voucher already claimed alert - You have already claimed and used this voucher. - このクーポンはすでに利用されました。
+Top Up BoltPay shortcut button - Charge wallet - ウォレットにチャージ
+Send page note field caption -  […] characters remaining -  あと[…]文字入力できます
+Request access to contact pop-up label - “MediaBank” Would Like to Access Your Contacts - 「MediaBank」は連絡先にアクセスしようとしています。
+Request access to contact pop-up caption - See which of your contacts are on MediaBank so you do not have to enter their number manually when sending them money. - 連絡先の中でMediaBankを利用している人がわかると、相手の番号を入力せずに送金できます。
+Request access to contact pop-up reject button - Don’t Allow - 許可なし
+Select recipient page - To select a recipient from your Contact, allow MediaBank to access your Contacts in Settings > Privacy > Contacts. - 連絡先から受取人を選択するには、「設定」＞「プライバシー」＞「連絡先」でMediaBankに連絡先へのアクセスを許可してください。
+Alert message 1 - You may still send funds by keying a phone number in the search bar. - 検索欄に電話番号を入力して送金することもできます。
+Alert message 2 - This number does not belong to any of your contacts, but you may still send the owner money using wallet. - この番号はどの連絡先にも属していませんが、ウォレットを使用して送金することはできます。
+Send button - Send to […] - […]に送金
+Turn on flash  action button - Turn Flash On - フラッシュをオンにしてください
+No QR code detected alert - No QR code detected. - QRコードが識別できません
+Request access to camera pop-up shortcut button to Settings - Settings - 設定
+Send successful page caption - You have sent $ […] to […] -  […]宛てに￥ […]円を送金しました
+Transaction time - {{date}}, {{time}} - {{日付}}, {{時間}}
+Receive successful page header - Received - 受け取った金額
+Receive successful page caption - You have received $ […] from {{user}} - {{ユーザー}}から […] 円を受け取りました
+Receive successful page note from sender - {{note}} - {{備考}}
+LetsBolt money received system notification header - MediaBank Wallet - MediaBankのウォレット
+LetsBolt Money received notification label - Money Received - 受け取った金額
+LetsBolt Money received notification caption - You have received money from […] users while MediaBank app was closed - MediaBankのアプリが閉じられた際に、[…]ユーザーからお金を受け取りました
